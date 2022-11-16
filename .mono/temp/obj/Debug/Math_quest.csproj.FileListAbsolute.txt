@@ -1,0 +1,12 @@
+/home/gustavo/Documents/Godot Projects/Math_quest/.mono/temp/obj/Debug/Math_quest.csproj.AssemblyReference.cache
+/home/gustavo/Documents/Godot Projects/Math_quest/.mono/temp/obj/Debug/Math_quest.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Documents/Godot Projects/Math_quest/.mono/temp/obj/Debug/Math_quest.AssemblyInfoInputs.cache
+/home/gustavo/Documents/Godot Projects/Math_quest/.mono/temp/obj/Debug/Math_quest.AssemblyInfo.cs
+/home/gustavo/Documents/Godot Projects/Math_quest/.mono/temp/obj/Debug/Math_quest.csproj.CoreCompileInputs.cache
+/home/gustavo/Documents/Godot Projects/Math_quest/.mono/temp/bin/Debug/Math_quest.dll
+/home/gustavo/Documents/Godot Projects/Math_quest/.mono/temp/bin/Debug/Math_quest.pdb
+/home/gustavo/Documents/Godot Projects/Math_quest/.mono/temp/obj/Debug/Math_quest.dll
+/home/gustavo/Documents/Godot Projects/Math_quest/.mono/temp/obj/Debug/Math_quest.pdb
+/home/gustavo/Documents/Godot Projects/Math_quest/.mono/temp/bin/Debug/Math_quest.deps.json
+/home/gustavo/Documents/Godot Projects/Math_quest/.mono/temp/obj/Debug/refint/Math_quest.dll
+/home/gustavo/Documents/Godot Projects/Math_quest/.mono/temp/obj/Debug/ref/Math_quest.dll

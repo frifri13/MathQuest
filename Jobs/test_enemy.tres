@@ -1,0 +1,13 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://Scripts/Logic/CharacterStats.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+job_name = ""
+maxHealth = 1
+maxAP = 0
+_for = 1
+_vel = 1
+_def = 1
+_mag = 0
